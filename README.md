@@ -9,13 +9,25 @@ Using Power BI, I developed a detailed dashboard that provides insights into the
 **The key elements of the analysis include:**
 
 **Total Sales and Profit:** Visualized overall sales figures and profit margins for the period.
-**Product Insights:** Top and Bottom 5 Products by Sales: Identified which products contributed most and least to sales.
-**Top 5 Products by Profit:** Highlighted the most profitable products.
-**Customer Insights:** Top 10 Customers by Sales: Showcased the customers who generated the highest sales revenue.
-**Regional Analysis:** Profit by Region: Analyzed profit distribution across different regions.
-**Sales and Profit by Market:** Visualized sales and profit performance across various market segments.
-**Operational Metrics:** Average Delivery Days: Measured the average time taken for product deliveries.
-**Total Return Orders:** Analyzed the total number of return orders to identify trends.
+
+**Product Insights:** 
+ Top and Bottom 5 Products by Sales: Identified which products contributed most and least to sales.
+ Top 5 Products by Profit: Highlighted the most profitable products.
+ 
+**Customer Insights:** 
+ Top 10 Customers by Sales: Showcased the customers who generated the highest sales revenue.
+ 
+**Regional Analysis:** 
+  Profit by Region: Analyzed profit distribution across different regions.
+ 
+**Sales and Profit by Market:** 
+  Visualized sales and profit performance across various market segments.
+  
+**Operational Metrics:** 
+  Average Delivery Days: Measured the average time taken for product deliveries.
+  
+**Total Return Orders:** 
+  Analyzed the total number of return orders to identify trends.
 
 ## 🔍 Key Insights
 
