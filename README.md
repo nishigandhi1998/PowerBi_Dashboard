@@ -1,4 +1,4 @@
-##📊 Power BI Project: Sales and Profit Analysis for XYZ Company (2012 - 2015) 🚀
+##📊 Power BI Project: Sales and Profit Analysis for XYZ Company (2012 - 2015) 🚀##
 
 #🔍 Problem Statement
 XYZ Company executives needed a comprehensive overview of their sales and profit performance from 2012 to 2015. The goal was to analyze key metrics including profit by region, top products, and sales insights to inform strategic decisions.
