@@ -19,9 +19,7 @@ Using Power BI, I developed a detailed dashboard that provides insights into the
  
 **Regional Analysis:** 
   Profit by Region: Analyzed profit distribution across different regions.
- 
-**Sales and Profit by Market:** 
-  Visualized sales and profit performance across various market segments.
+  Sales and Profit by Market: Visualized sales and profit performance across various market segments.
   
 **Operational Metrics:** 
   Average Delivery Days: Measured the average time taken for product deliveries.
