@@ -31,6 +31,6 @@ Explore the full project on GitHub for details on the Power BI reports, data sou
 
 💬 Let's Connect!
 I’m always open to discussing data analysis, business intelligence, and Power BI projects. Feel free to connect with me on [LINKEDIN](https://www.linkedin.com/in/nishigandhianalyst/)
- or reach out via email(nishigandhi1998@gmail.com).
+ or reach out via [email](nishigandhi1998@gmail.com).
 
 #PowerBI #DataAnalysis #BusinessIntelligence #SalesAnalysis #DataVisualization #DataScience #Analytics #SQL
